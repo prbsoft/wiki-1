@@ -2,7 +2,7 @@
 
 [Разработка](razrabotka/)
 
-[Инструкции](https://bsoft.gitbook.io/wiki/instrukcii)
+[Инструкции](/instrukcii)
 
-[Администрирование](https://bsoft.gitbook.io/wiki/administrirovanie)
+[Администрирование](/administrirovanie)
 
