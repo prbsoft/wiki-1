@@ -17,7 +17,7 @@
 Свойства справочников \(узел конф. Univ lists\)
 
 | **Имя свойства** | **Тип** | **Описание** | **Значение для примера** |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| :------------- |:-------------:| :-----| :-----|
 | StartField | String | Поле позиционирования по умолчанию | denumirea |
 | SpeedSearchQuery | String | Запрос для быстрого поиска,  который выполняется по нажатию Enter | SELECT cod,\(SELECT denumirea\_\_1 FROM vms\_univers u WHERE u.cod=t.cod \)  denumirea\_\_1 FROM TMS\_MPT t WHERE |
 | SagiEditQuery | Boolean | Разрешить изменение запросов \(Alt+Q\) справочника | true |
